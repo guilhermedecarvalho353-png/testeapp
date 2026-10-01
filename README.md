@@ -1,16 +1,16 @@
-# 🎓 Calculadora de Média do Aluno
+#  Calculadora de Média do Aluno
 
 Um programa simples em Python desenvolvido para calcular a média aritmética de duas notas e determinar o estado final de aprovação do aluno.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3.x** — Linguagem de programação utilizada para a lógica e interação via terminal.
 
 ---
 
-## 🚀 Como Instalar e Executar
+##  Como Instalar e Executar
 
 1. Certifique-se de que tem o **Python 3** instalado no seu computador.
 2. Transfira ou guarde o código num ficheiro com o nome `main.py`.
@@ -20,7 +20,7 @@ Um programa simples em Python desenvolvido para calcular a média aritmética de
 
 
 ## Exemplo de uso 
-=== Sistema de Notas do Aluno ===
+   Sistema de Notas do Aluno 
 Digite a primeira nota: 8.5
 Digite a segunda nota: 6.0
 
